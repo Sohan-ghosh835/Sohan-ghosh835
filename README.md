@@ -20,7 +20,7 @@
 ###  My Projects
 
 - 🎯 **License Plate Detection** using YOLOv5 & EasyOCR
-- 🌐 Portfolio Website (HTML, CSS, JS)
+- 🌐 **Portfolio Website** (HTML, CSS, JS)
 
 ---
 
