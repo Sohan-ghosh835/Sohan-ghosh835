@@ -56,7 +56,7 @@
 
 <div align="left">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan-ghosh835&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohex&layout=compact&theme=radical)
 
 </div>
 
