@@ -34,9 +34,7 @@
 ---
 
 
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/75ad41a7-bb5e-4421-9001-b5ff55acf2ed" width="700" alt="hi gif">
-</p>
+  
 
 ---
 
