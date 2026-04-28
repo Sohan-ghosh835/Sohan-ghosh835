@@ -56,14 +56,6 @@
 
 ---
 
-###  Tech
-Python • Java • C  
-FastAPI • Node.js • MongoDB • React  
-TensorFlow • OpenCV • RAG • LLMs  
-Docker • Git  
-
----
-
 ###  Projects
 - 🧠 **PKAA** – RAG-based AI agent (LangChain + ChromaDB)  
 - 🎬 **Hexinema** – Real-time sync platform (FastAPI, WebSockets)  
