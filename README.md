@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sohan-ghosh835&icon=1&color=4" />
+  <img src="https://komarev.com/ghpvc/?username=Sohan-ghosh835&icon=1&color=ff69b4" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sohan Ghosh</h1>
