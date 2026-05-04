@@ -96,9 +96,9 @@
 
 ---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sohan-ghosh835/Sohan-ghosh835/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github.com/Sohan-ghosh835/Sohan-ghosh835/blob/output/github-snake-dark.svg" width="1100" />
+</div>
 
 ###
 
