@@ -57,16 +57,18 @@
 ---
 
 ###  Projects
-- 🧠 **PKAA** – RAG-based AI agent (LangChain + ChromaDB)  
-- 🎬 **Hexinema** – Real-time sync platform (FastAPI, WebSockets)  
-- 🧩 **Dyslexia Detection** – DL model (~92% accuracy, published)  
-- 🔐 **VeriDoc** – AI + Blockchain verification (Solidity, IPFS)  
+-  **PKAA** – RAG-based AI agent (LangChain + ChromaDB)  
+-  **Hexinema** – Real-time sync platform (FastAPI, WebSockets)  
+-  **Dyslexia Detection** – DL model (~92% accuracy, published)  
+-  **VeriDoc** – AI + Blockchain verification (Solidity, IPFS)  
 
 ---
 
 ###  Connect
- 616447sohanghosh@gmail.com  
- https://sohan-ghosh835.github.io/Sohan-Portfolio/  
+ Gmail: 616447sohanghosh@gmail.com  
+ Portfolio: https://sohan-ghosh835.github.io/Sohan-Portfolio/  
+ LinkedIN: https://www.linkedin.com/in/sohan-ghosh-276b0028b/
+ LeetCode: https://leetcode.com/u/SohanGhosh/
 
 ---
 
