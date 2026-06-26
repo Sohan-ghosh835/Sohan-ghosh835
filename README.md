@@ -65,10 +65,10 @@
 ---
 
 ###  Connect
- Gmail: 616447sohanghosh@gmail.com  
- Portfolio: https://sohan-ghosh835.github.io/Sohan-Portfolio  
- LinkedIN: https://www.linkedin.com/in/sohan-ghosh-276b0028b
- LeetCode: https://leetcode.com/u/SohanGhosh/
+<p>Gmail: <a href="mailto:616447sohanghosh@gmail.com">616447sohanghosh@gmail.com</a></p>
+<p>Portfolio: <a href="https://sohan-ghosh835.github.io/Sohan-Portfolio">https://sohan-ghosh835.github.io/Sohan-Portfolio</a></p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/sohan-ghosh-276b0028b">https://www.linkedin.com/in/sohan-ghosh-276b0028b</a></p>
+<p>LeetCode: <a href="https://leetcode.com/u/SohanGhosh/">https://leetcode.com/u/SohanGhosh/</a></p>
 
 
 ---
