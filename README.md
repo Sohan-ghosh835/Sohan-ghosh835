@@ -68,7 +68,6 @@
  Gmail: 616447sohanghosh@gmail.com  
  Portfolio: https://sohan-ghosh835.github.io/Sohan-Portfolio/  
  LinkedIN: https://www.linkedin.com/in/sohan-ghosh-276b0028b/
- 
  LeetCode: https://leetcode.com/u/SohanGhosh/
 
 ---
