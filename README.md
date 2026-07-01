@@ -81,11 +81,6 @@
 
 ---
 
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sohan-ghosh835&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
----
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE0bWR4N2lmbDdmZ2RiY3ltYjcwaW1xdmlwdmFwYmtiNTVldDN0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qr04BtCDTF7aM/giphy.gif" width="800" style="border-radius:12px;" />
