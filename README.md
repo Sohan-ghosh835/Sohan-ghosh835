@@ -1,9 +1,18 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sohan-ghosh835&icon=1&color=ff69b4" />
+  <img src="https://komarev.com/ghpvc/?username=Sohan-ghosh835&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sohan Ghosh</h1>
-<h3 align="center">AI/ML Developer • Backend Engineer</h3>
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Itim&size=42&duration=2000&pause=3000&color=E0DFF1&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hello%2C+I'm+Sohan+Ghosh+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
+
+### AI/ML Developer • Backend Engineer 
+
+*Building scalable AI applications, production systems, and modern backend systems.*
+
+</div>
 
 ---
 
@@ -81,6 +90,9 @@
 
 ---
 
+ <img alt="DIMFLIX Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Sohan-ghosh835&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+
+---
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTE0bWR4N2lmbDdmZ2RiY3ltYjcwaW1xdmlwdmFwYmtiNTVldDN0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qr04BtCDTF7aM/giphy.gif" width="800" style="border-radius:12px;" />
