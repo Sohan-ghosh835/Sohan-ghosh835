@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sohan-ghosh835&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  <img
+    src="https://res.cloudinary.com/rptbuoig/image/upload/v1784132531/mygifGhosh.gif"
+    width="100%"
+    alt="Sohan Ghosh Intro"
+  />
 </p>
 
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Itim&size=42&duration=2000&pause=3000&color=E0DFF1&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hello%2C+I'm+Sohan+Ghosh+%F0%9F%91%8B" alt="Typing SVG" />
-</a>
 
 ### AI/ML Developer • Backend Engineer 
 
@@ -17,7 +17,7 @@
 ---
 
 ###  About Me
--  B.Tech CSE (AI & ML), IEM Kolkata 
+-  Hi, I'm Sohan Ghosh, B.Tech CSE (AI & ML), IEM Kolkata 
 -  Focused on AI systems, backend, and scalable architectures
 -  Published researcher (Scopus-indexed)
 
