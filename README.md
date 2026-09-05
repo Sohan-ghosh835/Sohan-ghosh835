@@ -90,6 +90,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SohanGhosh?ext=heatmap" />
+</p>
+
+---
+
  [![Sohan-ghosh835's Github Activity Graph](https://github-readme-activity-graph-lemon-theta.vercel.app/graph?username=Sohan-ghosh835&custom_title=Sohan-ghosh835's%20GitHub%20Activity%20Graph&bg_color=000000&color=ff0000&line=ff0000&point=ff4d4d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
