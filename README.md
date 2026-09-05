@@ -87,10 +87,10 @@
 <table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td><img width="440" src="https://github-readme-stats.shion.dev/api?username=Sohan-ghosh835&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></td>
-    <td><img width="440" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sohan-ghosh835&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
+    <td><img width="440" src="https://streak-stats.demolab.com/?user=Sohan-ghosh835&theme=dark&hide_border=false" /></td>
   </tr>
   <tr>
-    <td><img width="440" src="https://streak-stats.demolab.com/?user=Sohan-ghosh835&theme=dark&hide_border=false" /></td>
+    <td><img width="440" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sohan-ghosh835&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
     <td><img width="440" src="https://leetcard.jacoblin.cool/SohanGhosh?ext=heatmap" /></td>
   </tr>
 </table>
