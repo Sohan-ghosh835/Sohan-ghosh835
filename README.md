@@ -84,19 +84,21 @@
 
 ###  GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Sohan-ghosh835&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sohan-ghosh835&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sohan-ghosh835&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/SohanGhosh?ext=heatmap" />
-</p>
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td><img width="440" src="https://github-readme-stats.shion.dev/api?username=Sohan-ghosh835&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></td>
+    <td><img width="440" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sohan-ghosh835&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
+  </tr>
+  <tr>
+    <td><img width="440" src="https://streak-stats.demolab.com/?user=Sohan-ghosh835&theme=dark&hide_border=false" /></td>
+    <td><img width="440" src="https://leetcard.jacoblin.cool/SohanGhosh?ext=heatmap" /></td>
+  </tr>
+</table>
 
 ---
 
  [![Sohan-ghosh835's Github Activity Graph](https://github-readme-activity-graph-lemon-theta.vercel.app/graph?username=Sohan-ghosh835&custom_title=Sohan-ghosh835's%20GitHub%20Activity%20Graph&bg_color=000000&color=ff0000&line=ff0000&point=ff4d4d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
 ---
 
 <p align="center">
